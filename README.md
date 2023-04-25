@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&color=F700C4&width=451&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BD;+I+am+Yusuf+Abdulhafeez+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;++I+develop+Fullstack+web+applications++%E2%9C%A8+;I+look+forward+to+collaborating+with+you%2C+;and+learning+from+you!+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&color=F700C4&width=451&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BD;+I+am+Yusuf+Abdulhafeez+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;++I+develop+web+applications+%E2%9C%A8+;I+look+forward+to+collaborating+with+you%2C+;And+equally+learning+from+you!+%F0%9F%A4%9D)](https://git.io/typing-svg)
 ---
 
 
@@ -9,7 +9,7 @@
 - 💬 I would love to discuss about generative AI and Browser Fingerprinting
 - 📫 How to reach me: 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I built my first app in 2012 — it was my first experience with Phishing
+- ⚡ Fun fact: I built my first app in 2012, and it was my first experience with Phishing. 🤷🏾‍♂️
 
 <br/>
 
@@ -31,11 +31,15 @@
 <br/>
 
 ## Stats and Activities 📊
-
-  ![Abdulhafeez's's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayveno&show_icons=true&theme=radical)
-
- <br />
  
+<div style="display:flex; flex-gap:3em;">
+  <a href="https://github.com/hayveno" style="margin-left:10px;">
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hayveno&show_icons=true&theme=radical" />
+  </a>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmahm&theme=buefy&layout=compact&theme=radical" />
+</div>
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
