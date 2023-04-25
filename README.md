@@ -39,7 +39,10 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayveno&theme=buefy&layout=compact&theme=radical" />
 </div>
 
+<br/>
+<br/>
 
+🔔 Check out my pinned apps below ↓
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
