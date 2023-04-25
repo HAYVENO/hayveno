@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **TheyPlay Music**
 - 🌱 I’m currently improving my skills on Typescript
 - 👯 I’m looking to collaborate on OSS
-- 🤔 I’m looking for help with my app
+- 🤔 I’m looking for help with the "how"
 - 💬 I would love to discuss about generative AI and Browser Fingerprinting
 - 📫 How to reach me: ✉️ haythepen@gmail.com  or   🕊️ @hay_yusuf
 - 😄 Pronouns: He/Him
