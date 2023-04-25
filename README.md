@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on OSS
 - 🤔 I’m looking for help with my app
 - 💬 I would love to discuss about generative AI and Browser Fingerprinting
-- 📫 How to reach me: ✉️ haythepen@gmail.com or 🕊️ @hay_yusuf
+- 📫 How to reach me: ✉️ haythepen@gmail.com  or   🕊️ @hay_yusuf
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I built my first app in 2012, and it was my first experience with Phishing. 🤷🏾‍♂️
 
