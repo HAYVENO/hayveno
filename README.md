@@ -10,9 +10,7 @@
 - 📫 How to reach me: ✉️ haythepen@gmail.com  or   🕊️ @hay_yusuf
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I built my first web project in 2012, and it was my first experience with Phishing. 🤷🏾‍♂️
-
 <br/>
-
 
 ## 🛠 Tech Stack
 
