@@ -2,12 +2,12 @@
 ---
 
 
-- 🔭 I’m currently working on TheyPlay Music
+- 🔭 I’m currently working on **TheyPlay Music**
 - 🌱 I’m currently improving my skills on Typescript
 - 👯 I’m looking to collaborate on OSS
 - 🤔 I’m looking for help with my app
 - 💬 I would love to discuss about generative AI and Browser Fingerprinting
-- 📫 How to reach me: 
+- 📫 How to reach me: ✉️ haythepen@gmail.com or 🕊️ @hay_yusuf
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I built my first app in 2012, and it was my first experience with Phishing. 🤷🏾‍♂️
 
@@ -36,7 +36,7 @@
   <a href="https://github.com/hayveno" style="margin-left:10px;">
     <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=hayveno&show_icons=true&theme=radical" />
   </a>
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmahm&theme=buefy&layout=compact&theme=radical" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayveno&theme=buefy&layout=compact&theme=radical" />
 </div>
 
 
