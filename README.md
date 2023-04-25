@@ -40,7 +40,7 @@
 
 <br/>
 
-## Stats and Activities 📊
+## 📊 Stats and Activities 
  
 <div style="display:flex; flex-gap:3em;">
   <a href="https://github.com/hayveno" style="margin-left:10px;">
