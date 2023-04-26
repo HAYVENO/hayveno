@@ -53,7 +53,7 @@
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=317stts2iim4xivtp4slychksqqa&unique=true&count=2&width=432)
 
-🔔 Ensure you check out my pinned Apps before you leave. Welcome once again.
+🔔 Ensure you check out my pinned Apps before you leave. Fun is assured ✨
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
