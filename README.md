@@ -67,6 +67,23 @@
 
 <br/>
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2042%20mins-blue)
+
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.75 % 
+Tuesday                  78 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Wednesday                75 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Thursday                 68 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
+Friday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Sunday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+```
+
+
+
+ Last Updated on 26/04/2023 15:32:38 UTC
 <!--END_SECTION:waka-->
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=317stts2iim4xivtp4slychksqqa&unique=true&count=2&width=432)
