@@ -22,3 +22,5 @@ jobs:
           SHOW_TIMEZONE: "false"
           SHOW_LANGUAGE_PER_REPO: "false"
           SHOW_SHORT_INFO: "false"
+          SHOW_LOC_CHART: "false"
+          SHOW_EDITORS: "false"
