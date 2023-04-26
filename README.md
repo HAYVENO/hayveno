@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&color=F700C4&width=451&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BD;+I+am+Yusuf+Abdulhafeez+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;++I+build+magical+web+applications+%E2%9C%A8+;Looking+forward+to+collaborating...;And+also+learning+from+you!+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&color=F700C4&width=451&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BD;+I+am+Yusuf+Abdulhafeez+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;++I+build+magical+web+applications+%E2%9C%A8+;And+write+technical+content+%F0%9F%93%9A;Looking+forward+to+collaborating...;And+also+learning+from+you!+%F0%9F%A4%9D)](https://git.io/typing-svg)
+
 ---
 <p>
     <a href="https://www.linkedin.com/in/yusuf-abdulhafeez"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  
@@ -10,11 +11,10 @@
 </p>
 
 
-
 - 🔭 I’m currently working on **TheyPlay Music**
 - 🌱 I’m currently improving my skills on Typescript
 - 👯 I’m looking to collaborate on OSS
-- 🤔 I’m looking for help with the "how"
+- 🤔 I’m looking for help with  implementing scalable web architectures
 - 💬 I would love to discuss about generative AI and Browser Fingerprinting
 - 📫 How to reach me: ✉️ haythepen@gmail.com  or   🕊️ @hay_yusuf
 - 😄 Pronouns: He/Him
