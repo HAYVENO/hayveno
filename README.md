@@ -50,7 +50,10 @@
 </div>
 
 <br/>
-<br/>
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=317stts2iim4xivtp4slychksqqa&unique=true&count=3&width=432)
+
+317stts2iim4xivtp4slychksqqa
 
 🔔 Ensure you check out my pinned Apps before you leave. Welcome once again.
 <!--START_SECTION:waka-->
