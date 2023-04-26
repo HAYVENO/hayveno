@@ -24,4 +24,4 @@ jobs:
           SHOW_SHORT_INFO: "false"
           SHOW_LOC_CHART: "false"
           SHOW_EDITORS: "false"
-          SHOW_OS: "false"
+          SHOW_OS: "false" 
