@@ -56,12 +56,6 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
 </p>
 
-bash
-bootstrap
-figma
-material ui
-jest
-
 
 <br/>
 
