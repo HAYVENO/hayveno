@@ -76,10 +76,11 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=317stts2iim4xivtp4slychksqqa&unique=true&count=2&width=432)
 
 🔔 Ensure you check out my pinned Apps before you leave. Fun is assured ✨
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2042%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 
 
 
