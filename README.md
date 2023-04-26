@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-🔔 Check out my pinned Apps below ↓
+🔔 Ensure you check out my pinned Apps before you leave. Welcome once again.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
