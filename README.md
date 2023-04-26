@@ -11,12 +11,6 @@
 </p>
 
 
-
-
-
-
-
-
 - 🔭 I’m currently working on **TheyPlay Music**
 - 🌱 I’m currently improving my skills on Typescript
 - 👯 I’m looking to collaborate on OSS
@@ -72,30 +66,16 @@
 </div>
 
 <br/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=317stts2iim4xivtp4slychksqqa&unique=true&count=2&width=432)
 
+
+
 🔔 Ensure you check out my pinned Apps before you leave. Fun is assured ✨
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2042%20mins-blue)
 
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Tuesday                  78 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Wednesday                74 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-Thursday                 68 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-Friday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
-Sunday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
-```
-
-
-
- Last Updated on 26/04/2023 15:30:12 UTC
-<!--END_SECTION:waka-->
 
 
 
