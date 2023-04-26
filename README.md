@@ -78,6 +78,37 @@
 🔔 Ensure you check out my pinned Apps before you leave. Fun is assured ✨
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-236%20hrs%2042%20mins-blue)
+
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Tuesday                  78 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Wednesday                71 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Thursday                 68 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.66 % 
+Friday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Saturday                 60 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
+Sunday                   92 commits          █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🔥 Editors: 
+VS Code                  15 hrs 33 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Mac                      15 hrs 33 mins      █████████████████████████   100.00 % 
+```
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/HAYVENO/HAYVENO/main/assets/bar_graph.png)
+
+
+ Last Updated on 26/04/2023 15:11:18 UTC
 <!--END_SECTION:waka-->
 
 
