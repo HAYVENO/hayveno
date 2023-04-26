@@ -13,29 +13,36 @@
 
 ## 🛠 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=Typescript&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=1572B6)
-![Create React App](https://img.shields.io/badge/-Create%20React%20App-333333?style=flat&logo=create-react-app&logoColor=1572B6)
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Create React App" src="https://img.shields.io/badge/-Create%20React%20App-61DAFB?style=flat-square&logo=create-react-app&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+</p>
 
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS&logoColor=1572B6)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css&logoColor=1572B6)
+<p>
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="SASS" src="https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+</p>
 
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=1572B6)
-![Serverless](https://img.shields.io/badge/-Serverless-333333?style=flat&logo=serverless&logoColor=FD5750)
-![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express&logoColor=1572B6)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=1572B6)
+<p>
+  <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img alt="Serverless" src="https://img.shields.io/badge/-Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
+</p> 
 
-![Prisma](https://img.shields.io/badge/-Prisma-333333?style=flat&logo=Prisma&logoColor=1572B6)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase&logoColor=007FFF)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=336791)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql&logoColor=4479A1)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite&logoColor=003B57)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB&logoColor=1572B6)
-
+<p>
+  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=Prisma&logoColor=white" />
+  <img alt="Supabase" src="https://img.shields.io/badge/-Supabase-333333?style=flat-square&logo=supabase&logoColor=007FFF" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+</p>
 
 
 <br/>
