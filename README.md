@@ -12,7 +12,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **TheyPlay Music**
+- 🔭 I’m currently working on  [**TheyPlay Music**](https://github.com/hayveno/theyPlay) (Now OSS) 🎉
 - 🌱 I’m currently improving my skills on Typescript
 - 👯 I’m looking to collaborate on OSS
 - 🤔 I’m looking for help with  implementing scalable web architectures
