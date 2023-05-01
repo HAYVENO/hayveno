@@ -13,7 +13,7 @@
 
 
 - 🔭 I’m currently working on  [**TheyPlay Music**](https://github.com/hayveno/theyPlay) (Now OSS) 🎉
-- 🌱 I’m currently improving my skills on Typescript
+- 🌱 I’m currently improving on my Typescript skills
 - 👯 I’m looking to collaborate on OSS
 - 🤔 I’m looking for help with  implementing scalable web architectures
 - 💬 I would love to discuss about generative AI and Browser Fingerprinting
