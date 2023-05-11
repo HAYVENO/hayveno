@@ -18,7 +18,7 @@
 - 🤔 I would appreciate help with  implementing scalable web architectures
 - 💬 Let's discuss about generative AI and Browser Fingerprinting
 - 📫 How to reach me: ✉️ haythepen@gmail.com  or   🕊️ @hay_yusuf
-- 😄 Pronouns: He/Him
+- 🙂 Pronouns: He/Him
 - ⚡ Fun fact: I built my first web project in 2012, and it became my first experience with Phishing. 🤷🏾‍♂️
 
 ## 🛠 Tech Stack
