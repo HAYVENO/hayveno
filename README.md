@@ -95,7 +95,7 @@ Sunday                   93 commits          ███░░░░░░░░�
 
 <br/>
 
-🔔 Ensure you check out my pinned Apps before you leave — Guaranteed to add some fun to your day. ✨
+🔔 Ensure you check out my pinned Apps before you leave — guaranteed to add some fun to your day. ✨
 
 
 
