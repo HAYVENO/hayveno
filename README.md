@@ -15,8 +15,8 @@
 - 🔭 I’m currently working on  [**TheyPlay Music**](https://github.com/hayveno/theyPlay) (Now OSS) 🎉
 - 🌱 I’m also improving on my Typescript skills
 - 👯 I’m looking to collaborate on OSS
-- 🤔 I’m looking for help with  implementing scalable web architectures
-- 💬 I would love to discuss about generative AI and Browser Fingerprinting
+- 🤔 I would appreciate help with  implementing scalable web architectures
+- 💬 Let's discuss about generative AI and Browser Fingerprinting
 - 📫 How to reach me: ✉️ haythepen@gmail.com  or   🕊️ @hay_yusuf
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I built my first web project in 2012, and it became my first experience with Phishing. 🤷🏾‍♂️
