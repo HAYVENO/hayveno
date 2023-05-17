@@ -75,8 +75,8 @@
 <br/>
 <br/>
 
-> The stats below are from 2023.
-
+> The stats below are from 2023
+<br/>
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-306%20hrs%2052%20mins-blue)
 
