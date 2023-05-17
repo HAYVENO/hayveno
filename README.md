@@ -72,7 +72,7 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs%2013%20mins-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -88,7 +88,7 @@ Sunday                   97 commits          ████░░░░░░░�
 
 
 
- Last Updated on 16/05/2023 12:19:34 UTC
+ Last Updated on 17/05/2023 00:52:44 UTC
 <!--END_SECTION:waka-->
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=317stts2iim4xivtp4slychksqqa&unique=true&count=2&width=432)
