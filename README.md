@@ -76,9 +76,6 @@
 </div> -->
 <br/>
 
-> The stats below are from 2023
-<br/>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%2012%20mins-blue)
 
@@ -98,6 +95,7 @@ Sunday                   98 commits          ███░░░░░░░░�
 
  Last Updated on 13/06/2023 00:56:55 UTC
 <!--END_SECTION:waka-->
+> Note: The coding stats above are from Jan, 2023.
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=317stts2iim4xivtp4slychksqqa&unique=true&count=2&width=432)
 
