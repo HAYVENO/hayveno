@@ -48,8 +48,11 @@
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="REST" src="https://img.shields.io/badge/-REST-1B1B1B?style=flat-square&logo=rest&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="YAML" src="https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white" />
+ <img alt="Zod" src="https://img.shields.io/badge/-Zod-2B3840?style=flat-square" />
+    <img alt="Nest.js" src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
+    <img alt="YAML" src="https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white" />
 </p>
+
 
 
 
