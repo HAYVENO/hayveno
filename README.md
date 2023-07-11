@@ -14,8 +14,8 @@
 
 - 🔭 I’m currently working on  [**TheyPlay Music**](https://github.com/hayveno/theyPlay) (Now OSS) 🎉
 - 🌱 I’m also improving on my Typescript skills
-- 👯 I’m looking to collaborate on OSS
-- 🤔 I would appreciate help with  implementing scalable web architectures
+- 👯 I’m looking to collaborate on exciting projects ✨
+- 🤔 I would appreciate help and tips on contributing to OSS
 - 💬 Let's discuss about generative AI and Browser Fingerprinting
 - 📫 How to reach me: ✉️ haythepen@gmail.com  or   🕊️ @hay_yusuf
 - 🙂 Pronouns: He/Him
