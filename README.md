@@ -87,7 +87,7 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-478%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-480%20hrs%202%20mins-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -106,11 +106,12 @@ Sunday                   129 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 12 mins       █████████████████████████   100.00 % 
+TypeScript               1 hr 10 mins        ██████████████████████░░░   86.89 % 
+TSConfig                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
 ```
 
 
- Last Updated on 13/08/2023 00:42:49 UTC
+ Last Updated on 13/08/2023 12:15:05 UTC
 <!--END_SECTION:waka-->
 > Note: The stats above are from Jan. 2023.
 <br/>
