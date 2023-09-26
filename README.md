@@ -87,7 +87,7 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2024%20mins-blue)
 
 📅 **I'm Most Productive on Wednesday** 
 
@@ -114,7 +114,7 @@ Pug                      8 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 25/09/2023 12:18:44 UTC
+ Last Updated on 26/09/2023 00:43:06 UTC
 <!--END_SECTION:waka-->
 > Note: The stats above are from Jan. 2023.
 <br/>
