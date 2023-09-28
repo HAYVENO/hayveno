@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&color=F700C4&width=451&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BD;+I+am+Yusuf+Abdulhafeez+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;++I+build+magical+web+applications+%E2%9C%A8+;And+write+impactful+content+%F0%9F%93%9A;Looking+forward+to+collaborating...;And+also+learning+from+you!+%F0%9F%A4%9D)](https://git.io/typing-svg)
 ---
 <p>
+      <a href="https://hayveno-hive.vercel.app" target="_blank"><img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-%230A0A0A.svg?&style=for-the-badge&logo=hashnode&logoColor=white" height=25></a>
     <a href="https://www.linkedin.com/in/yusuf-abdulhafeez" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  
   <a href="https://www.twitter.com/hay_yusuf" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://dev.to/hayveno" target="_blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
