@@ -14,7 +14,7 @@
 </p>
 
 
-- 🔭 I’m currently working on  [**TheyPlay Music**](https://github.com/hayveno/theyPlay) (Now OSS) 🎉
+- 🔭 I’m currently working on  [**TheyPlay**](https://github.com/hayveno/theyPlay) (Now OSS) 🎉
 - 🌱 I’m also improving on my Typescript skills
 - 👯 I’m looking to collaborate on exciting projects ✨
 - 🤔 I would appreciate help and tips on contributing to OSS
