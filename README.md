@@ -18,7 +18,7 @@
 - 🌱 I’m also improving on my Typescript skills
 - 👯 I’m looking to collaborate on exciting projects ✨
 - 🤔 I would appreciate help and tips on contributing to OSS
-- 💬 Let's discuss about generative AI and Browser Fingerprinting
+- 💬 Let's discuss about Authentication and Browser Fingerprinting
 - 📫 How to reach me: ✉️ haythepen@gmail.com  or   𓅱 @hay_yusuf
 - 🙂 Pronouns: He/Him
 - ⚡ Fun fact: I built my first web project in 2012, and it became my first experience with Phishing. 🤷🏾‍♂️
