@@ -36,10 +36,13 @@
 <p>
   <img alt="React Native" src="https://img.shields.io/badge/-React%20Native-2C2D2E?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux Toolkit" src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Recoil" src="https://img.shields.io/badge/-Recoil-5D5D5D?style=flat-square&logo=recoil&logoColor=white" />
-  <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
-  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="Create React App" src="https://img.shields.io/badge/-Create%20React%20App-61DAFB?style=flat-square&logo=create-react-app&logoColor=white" />
+ <img alt="Recoil" src="https://img.shields.io/badge/-Recoil-5D5D5D?style=flat-square&logo=recoil&logoColor=white" />
+<img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
+<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img alt="Create React App" src="https://img.shields.io/badge/-Create%20React%20App-61DAFB?style=flat-square&logo=create-react-app&logoColor=white" />
+<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img alt="MDX" src="https://img.shields.io/badge/-MDX-000000?style=flat-square&logo=mdx&logoColor=white" />
+
 </p>
 
 <p>
