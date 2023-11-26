@@ -21,7 +21,7 @@
 - 💬 Let's discuss about Authentication and Browser Fingerprinting
 - 📫 How to reach me: ✉️ haythepen@gmail.com  or   𓅱 @hay_yusuf
 - 🙂 Pronouns: He/Him
-- ⚡ Fun fact: I built my first web project in 2012, and it became my first experience with Phishing. 🤷🏾‍♂️
+- ⚡ Fun fact: I built my first web project in 2012, and it somehow became my first Phishing lesson. 🤷🏾‍♂️
 
 ## 🛠 Tech Stack
 
