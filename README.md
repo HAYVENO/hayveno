@@ -113,13 +113,11 @@ Sunday                   295 commits         ███░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               22 mins             ███████████████████░░░░░░   76.65 % 
-Prisma                   6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/12/2023 00:47:11 UTC
+ Last Updated on 15/12/2023 12:19:31 UTC
 <!--END_SECTION:waka-->
 > Note: The stats above are from Jan. 2023.
 <br/>
