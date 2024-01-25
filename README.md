@@ -126,7 +126,7 @@ Markdown                 12 mins             ░░░░░░░░░░░�
 > Note: The stats above are from Jan. 2023.
 <br/>
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=317stts2iim4xivtp4slychksqqa&unique=true&count=2&width=432)
+<!--![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=317stts2iim4xivtp4slychksqqa&unique=true&count=2&width=432) -->
 
 <br/>
 
