@@ -94,7 +94,7 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-894%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-894%20hrs%2039%20mins-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -121,7 +121,7 @@ Prisma                   0 secs              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/02/2024 12:18:09 UTC
+ Last Updated on 24/02/2024 00:41:18 UTC
 <!--END_SECTION:waka-->
 > Note: The stats above are from Jan. 2023.
 <br/>
