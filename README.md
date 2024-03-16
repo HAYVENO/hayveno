@@ -94,7 +94,7 @@
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-924%20hrs%2012%20mins-blue)
 
 📅 **I'm Most Productive on Tuesday** 
 
@@ -117,7 +117,7 @@ TypeScript               14 mins             ███████████�
 ```
 
 
- Last Updated on 15/03/2024 12:18:02 UTC
+ Last Updated on 16/03/2024 00:42:37 UTC
 <!--END_SECTION:waka-->
 > Note: The stats above are from Jan. 2023.
 <br/>
