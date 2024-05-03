@@ -120,7 +120,7 @@ Git Config               0 secs              ░░░░░░░░░░░�
 
  Last Updated on 03/05/2024 11:00:31 UTC
 <!--END_SECTION:waka-->
-> Note: The stats above are from Jan. 2023.
+> Note: The stats above are from Jan. 2023 till date.
 <br/>
 
 <!--![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=317stts2iim4xivtp4slychksqqa&unique=true&count=2&width=432) -->
