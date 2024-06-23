@@ -133,7 +133,7 @@ JSON                     16 mins             ░░░░░░░░░░░�
 
 <br/>
 
-🔔 Ensure you check out my pinned Apps before you leave — add some fun to your day. ✨
+🔔 Ensure you check out my pinned Apps before you leave — let me know which is your favorite. ✨
 
 
 
