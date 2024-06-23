@@ -63,7 +63,9 @@
  <img alt="Zod" src="https://img.shields.io/badge/-Zod-2B3840?style=flat-square" />
     <img alt="Nest.js" src="https://img.shields.io/badge/-Nest.js-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="YAML" src="https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white" />
-    <img alt="Pug" src="https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=pug&logoColor=white" />
+<img alt="Pug" src="https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=pug&logoColor=white" />
+<img alt="Handlebars" src="https://img.shields.io/badge/-Handlebars-000000?style=flat-square&logo=handlebars.js&logoColor=white" />
+
 
 </p>
 
