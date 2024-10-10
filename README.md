@@ -18,7 +18,7 @@
 - 🌱 I am enhancing my AWS skills to bolster my expertise in cloud computing
 - 👯 I’m looking to collaborate on exciting projects ✨
 - 🤔 I would appreciate help and tips on contributing to OSS
-- 💬 Let's discuss about Payment systems and Browser Fingerprinting
+- 💬 Let's discuss about Payment systems and Browser fingerprinting
 - 📫 How to reach me: ✉️ haythepen@gmail.com  or   𓅱 @hay_yusuf
 - 🙂 Pronouns: He/Him
 - ⚡ Fun fact: I built my first web project in 2012, and it somehow became my first Phishing lesson.
