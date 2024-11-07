@@ -15,7 +15,7 @@
 
 
 - 🔭 I’m currently working on  [**TheyPlay**](https://github.com/hayveno/theyPlay) (Now OSS) 🎉
-- 🌱 I am enhancing my AWS skills to bolster my expertise in cloud computing
+- 🌱 I'm strengthening my AWS skills to deepen my expertise in cloud computing
 - 👯 I’m looking to collaborate on exciting projects ✨
 - 🤔 I would appreciate help and tips on contributing to OSS
 - 💬 Let's discuss about Payment systems and Browser fingerprinting
