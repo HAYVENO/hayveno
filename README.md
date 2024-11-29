@@ -123,7 +123,7 @@ Sunday                   1164 commits        ████░░░░░░░�
 
  Last Updated on 01/08/2024 00:58:56 UTC
 <!--END_SECTION:waka-->
-> Note: The stats above are from Jan. 2023 till date.
+> Note: The stats above are from Jan. 2023.
 <br/>
 
 <!--![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=317stts2iim4xivtp4slychksqqa&unique=true&count=2&width=432) -->
