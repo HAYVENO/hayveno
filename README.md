@@ -7,7 +7,7 @@
 <a href="https://medium.com/@haythepen" target="_blank">
   <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
 </a>
-<a href="https://twitter.com/your_twitter_username" target="_blank">
+<a href="https://twitter.com/hay_yusuf" target="_blank">
   <img src="https://img.shields.io/badge/twitter-%230064b0.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 alt="Twitter">
 </a>
 
