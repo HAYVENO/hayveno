@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&color=F700C4&width=451&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BD;+I+am+Yusuf+Abdulhafeez+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;++I+build+magical+applications+%E2%9C%A8+;And+craft+impactful+technical+content💭+%F0%9F%93%9A;Looking+forward+to+building+with+you+!+%F0%9F%A4%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=400&color=F700C4&width=451&lines=Hello+there+%F0%9F%91%8B%F0%9F%8F%BD;+I+am+Yusuf+Abdulhafeez+%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB;++I+build+magical+applications+%E2%9C%A8+;And+craft+technical+content+✍🏾+;Looking+forward+to+building+with+you+!+%F0%9F%A4%9D)](https://git.io/typing-svg)
 ---
 <p>
       <a href="https://hayven.dev" target="_blank"><img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-%23333333.svg?&style=for-the-badge&logo=hashnode&logoColor=white" height=25></a>
