@@ -4,10 +4,17 @@
 <p>
       <a href="https://hayven.dev" target="_blank"><img src="https://img.shields.io/badge/OFFICIAL_WEBSITE-%23333333.svg?&style=for-the-badge&logo=hashnode&logoColor=white" height=25></a>
     <a href="https://www.linkedin.com/in/yusuf-abdulhafeez" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>  
-      <a href="mailto:haythepen@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-  <a href="https://www.twitter.com/hay_yusuf" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
-  <a href="https://dev.to/hayveno" target="_blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-    <a href="https://hayven.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height=25></a>
+<a href="https://medium.com/@haythepen" target="_blank">
+  <img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25>
+</a>
+<a href="https://twitter.com/your_twitter_username" target="_blank">
+  <img src="https://img.shields.io/badge/twitter-%230064b0.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25 alt="Twitter">
+</a>
+
+
+
+
+
   
 
   <!--   <a href="https://www.youtube.com/hayusuf"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>  -->
@@ -15,10 +22,10 @@
 
 
 - 🔭 I’m currently working on  [**TheyPlay**](https://github.com/hayveno/theyPlay) (Now OSS) 🎉
-- 🌱 I'm honing my AWS skills to deepen my expertise in cloud computing 🌩️
+- 🌱 I'm honing my AWS skills to deepen my expertise in system architecture 🌩️
 - 👯 I’m looking to collaborate on exciting projects ✨
 - 🤔 I would appreciate help and tips on contributing to OSS
-- 💬 Let's discuss about Payment systems and Browser fingerprinting
+- 💬 Let's discuss about Personal online privacy and Browser fingerprinting
 - 📫 How to reach me: ✉️ haythepen@gmail.com  or   𓅱 @hay_yusuf
 - 🙂 Pronouns: He/Him
 - ⚡ Fun fact: I built my first web project in 2012, and it somehow became my first Phishing lesson.
