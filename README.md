@@ -25,7 +25,7 @@
 - 🌱 I'm honing my AWS skills to deepen my expertise in system architecture 🌩️
 - 👯 I’m looking to collaborate on exciting projects ✨
 - 🤔 I would appreciate help and tips on contributing to OSS
-- 💬 Let's discuss about Personal online privacy and technical documentation
+- 💬 Let's discuss about online privacy and technical documentation
 - 📫 How to reach me: ✉️ haythepen@gmail.com  or   𓅱 @hay_yusuf
 - 🙂 Pronouns: He/Him
 - ⚡ Fun fact: I built my first web project in 2012, and it somehow became my first Phishing lesson.
