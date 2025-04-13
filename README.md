@@ -72,8 +72,6 @@
     <img alt="YAML" src="https://img.shields.io/badge/-YAML-000000?style=flat-square&logo=yaml&logoColor=white" />
 <img alt="Pug" src="https://img.shields.io/badge/-Pug-A86454?style=flat-square&logo=pug&logoColor=white" />
 <img alt="Handlebars" src="https://img.shields.io/badge/-Handlebars-000000?style=flat-square&logo=handlebars.js&logoColor=white" />
-
-
 </p>
 
 
@@ -98,6 +96,14 @@
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
 
 </p>
+
+<p>
+  <img alt="OpenAPI" src="https://img.shields.io/badge/-OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+<img alt="Swagger" src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+  <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+</p>
+
 
 
 <br/>
